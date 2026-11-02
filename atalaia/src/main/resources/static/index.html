@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atalaia</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
+
+  <!-- Leaflet: biblioteca de mapas -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <span class="brand-name">Atalaia</span>
+      <span class="brand-tag">descobre o mundo, país a país</span>
+    </div>
+    <div class="search">
+      <input id="search" type="search" list="country-list" placeholder="Procurar país…" autocomplete="off" aria-label="Procurar país">
+      <datalist id="country-list"></datalist>
+    </div>
+  </header>
+
+  <main class="layout">
+    <div id="map" aria-label="Mapa do mundo"></div>
+
+    <aside id="panel" class="panel" aria-live="polite">
+      <div class="panel-empty">
+        <h2>Clica num país</h2>
+        <p>Vais ver as notícias de hoje, o que as pessoas estão a pesquisar, os principais jornais e o que aconteceu neste dia na história.</p>
+      </div>
+    </aside>
+  </main>
+</body>
+</html>

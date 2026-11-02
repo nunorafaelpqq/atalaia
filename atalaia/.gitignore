@@ -1,0 +1,17 @@
+# Ficheiros gerados pelo Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Segredos (chaves de API no futuro) — NUNCA para o GitHub
+.env
+application-local.properties

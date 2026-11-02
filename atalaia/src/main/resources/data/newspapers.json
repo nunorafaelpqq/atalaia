@@ -1,0 +1,84 @@
+{
+  "PT": [
+    { "name": "Público", "url": "https://www.publico.pt", "note": "Diário generalista" },
+    { "name": "Expresso", "url": "https://expresso.pt", "note": "Semanário de referência" },
+    { "name": "Observador", "url": "https://observador.pt", "note": "Jornal online" },
+    { "name": "Diário de Notícias", "url": "https://www.dn.pt", "note": "Diário generalista" },
+    { "name": "Jornal de Notícias", "url": "https://www.jn.pt", "note": "Diário do Porto" },
+    { "name": "RTP Notícias", "url": "https://www.rtp.pt/noticias", "note": "Serviço público" }
+  ],
+  "BR": [
+    { "name": "Folha de S.Paulo", "url": "https://www.folha.uol.com.br", "note": "Diário" },
+    { "name": "O Globo", "url": "https://oglobo.globo.com", "note": "Diário" },
+    { "name": "Estadão", "url": "https://www.estadao.com.br", "note": "Diário" },
+    { "name": "g1", "url": "https://g1.globo.com", "note": "Portal de notícias" }
+  ],
+  "ES": [
+    { "name": "El País", "url": "https://elpais.com", "note": "Diário" },
+    { "name": "El Mundo", "url": "https://www.elmundo.es", "note": "Diário" },
+    { "name": "ABC", "url": "https://www.abc.es", "note": "Diário" },
+    { "name": "La Vanguardia", "url": "https://www.lavanguardia.com", "note": "Diário de Barcelona" }
+  ],
+  "FR": [
+    { "name": "Le Monde", "url": "https://www.lemonde.fr", "note": "Diário" },
+    { "name": "Le Figaro", "url": "https://www.lefigaro.fr", "note": "Diário" },
+    { "name": "Libération", "url": "https://www.liberation.fr", "note": "Diário" }
+  ],
+  "DE": [
+    { "name": "Der Spiegel", "url": "https://www.spiegel.de", "note": "Semanário" },
+    { "name": "Frankfurter Allgemeine", "url": "https://www.faz.net", "note": "Diário" },
+    { "name": "Süddeutsche Zeitung", "url": "https://www.sueddeutsche.de", "note": "Diário" },
+    { "name": "Die Zeit", "url": "https://www.zeit.de", "note": "Semanário" }
+  ],
+  "IT": [
+    { "name": "Corriere della Sera", "url": "https://www.corriere.it", "note": "Diário" },
+    { "name": "la Repubblica", "url": "https://www.repubblica.it", "note": "Diário" },
+    { "name": "La Stampa", "url": "https://www.lastampa.it", "note": "Diário" }
+  ],
+  "GB": [
+    { "name": "BBC News", "url": "https://www.bbc.co.uk/news", "note": "Serviço público" },
+    { "name": "The Guardian", "url": "https://www.theguardian.com", "note": "Diário" },
+    { "name": "Financial Times", "url": "https://www.ft.com", "note": "Economia" }
+  ],
+  "IE": [
+    { "name": "The Irish Times", "url": "https://www.irishtimes.com", "note": "Diário" },
+    { "name": "RTÉ News", "url": "https://www.rte.ie/news", "note": "Serviço público" }
+  ],
+  "US": [
+    { "name": "The New York Times", "url": "https://www.nytimes.com", "note": "Diário" },
+    { "name": "The Washington Post", "url": "https://www.washingtonpost.com", "note": "Diário" },
+    { "name": "The Wall Street Journal", "url": "https://www.wsj.com", "note": "Economia" },
+    { "name": "AP News", "url": "https://apnews.com", "note": "Agência noticiosa" }
+  ],
+  "CA": [
+    { "name": "CBC News", "url": "https://www.cbc.ca/news", "note": "Serviço público" },
+    { "name": "The Globe and Mail", "url": "https://www.theglobeandmail.com", "note": "Diário" }
+  ],
+  "MX": [
+    { "name": "El Universal", "url": "https://www.eluniversal.com.mx", "note": "Diário" },
+    { "name": "Milenio", "url": "https://www.milenio.com", "note": "Diário" }
+  ],
+  "AR": [
+    { "name": "Clarín", "url": "https://www.clarin.com", "note": "Diário" },
+    { "name": "La Nación", "url": "https://www.lanacion.com.ar", "note": "Diário" }
+  ],
+  "NL": [
+    { "name": "NOS", "url": "https://nos.nl", "note": "Serviço público" },
+    { "name": "de Volkskrant", "url": "https://www.volkskrant.nl", "note": "Diário" },
+    { "name": "NRC", "url": "https://www.nrc.nl", "note": "Diário" }
+  ],
+  "JP": [
+    { "name": "NHK", "url": "https://www3.nhk.or.jp/news/", "note": "Serviço público" },
+    { "name": "Asahi Shimbun", "url": "https://www.asahi.com", "note": "Diário" },
+    { "name": "The Japan Times", "url": "https://www.japantimes.co.jp", "note": "Em inglês" }
+  ],
+  "IN": [
+    { "name": "The Times of India", "url": "https://timesofindia.indiatimes.com", "note": "Diário" },
+    { "name": "The Hindu", "url": "https://www.thehindu.com", "note": "Diário" },
+    { "name": "Hindustan Times", "url": "https://www.hindustantimes.com", "note": "Diário" }
+  ],
+  "AU": [
+    { "name": "ABC News", "url": "https://www.abc.net.au/news", "note": "Serviço público" },
+    { "name": "The Sydney Morning Herald", "url": "https://www.smh.com.au", "note": "Diário" }
+  ]
+}
