@@ -20,7 +20,8 @@ import java.util.Map;
 @Service
 public class CountryInfoService {
 
-    // Estes dados quase nunca mudam: guardamos 24 horas.
+    // Estes dados quase nunca mudam: guardamos 24 horas.´
+    // test
     private final TtlCache<CountryInfo> cache = new TtlCache<>(Duration.ofHours(24));
     private final RestClient http;
     private final ObjectMapper json;
